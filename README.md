@@ -1,13 +1,13 @@
 # Hostel-Booking-System
 Maxwell-Trepp-patch-1
 Group project
-# 🏠 Off-Campus Accommodation System
+#  Off-Campus Accommodation System
 
 A Django web application that connects university students with hostel owners near campus. Students can search and book hostels; owners can manage listings and respond to booking requests.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Team Members & Responsibilities](#team-members--responsibilities)
@@ -44,11 +44,11 @@ The Off-Campus Accommodation System solves the problem of students manually sear
 
 | Member | Role | Feature Branch |
 |--------|------|----------------|
-| Member 1 | Team Lead — Project Setup, Settings, GitHub Admin | `feature/project-setup` |
-| Member 2 | Authentication — Register, Login, Logout, Decorators | `feature/authentication` |
-| Member 3 | Hostel Management — Models, Owner Dashboard, CRUD | `feature/hostel-management` |
-| Member 4 | Booking System — Requests, Approve/Decline, Expiry | `feature/booking-system` |
-| Member 5 | Frontend & UI — Templates, Search, Pagination, Styling | `feature/frontend-ui` |
+| maxwell | Team Lead — Project Setup, Settings, GitHub Admin | `feature/project-setup` |
+| Packson| Authentication — Register, Login, Logout, Decorators | `feature/authentication` |
+| Justice | Hostel Management — Models, Owner Dashboard, CRUD | `feature/hostel-management` |
+| Shupie| Booking System — Requests, Approve/Decline, Expiry | `feature/booking-system` |
+| Lauritta | Frontend & UI — Templates, Search, Pagination, Styling | `feature/frontend-ui` |
 
 Each member works exclusively on their branch and opens a Pull Request into `develop` when their feature is ready for review.
 
@@ -68,7 +68,7 @@ Each member works exclusively on their branch and opens a Pull Request into `dev
 
 ---
 
-## Getting Started (Every Member Must Do This)
+## Getting Started (Everyone  Must Do This)
 
 Follow every step in order. Do not skip any step.
 
@@ -643,21 +643,10 @@ Before opening a Pull Request, test every item relevant to your feature.
 
 ---
 
-## Contributing
 
-1. Pick your assigned feature from the team responsibilities table.
-2. Create your feature branch from `develop`.
-3. Build your feature following the coding standards in this README.
-4. Test everything in your testing checklist section.
-5. Open a Pull Request to `develop` with the PR template filled in.
-6. Wait for one teammate to review and approve before merging.
 
 ---
 
-## License
 
-This project was built for academic purposes as part of a university software development course.
-=======
-Group project.
 
 main
